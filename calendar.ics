@@ -1,0 +1,290 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ZContent.net//ZapCalLib 1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+SUMMARY:SERdigital - Web Conference
+DTSTART:20191113T100000
+DTEND:20191113T113000
+UID:2a68daa2-7b10-4c0a-b67c-3b7b6aa27344
+DTSTAMP:20191112T000302
+Description:“Are Epidemiologists Scientists or Public Health Practitioner
+ s?” Join Drs Mary Bassett and David Savitz for the Fall SERdigital event
+ ! - More info: https://epiresearch.org/serlibrary/serdigital/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SERtalks - NIH
+DTSTART:20191114T070000
+DTEND:20191114T100000
+UID:a365daf6-b137-4484-a442-3fa531279cc6
+DTSTAMP:20191112T000302
+Description:"Air pollution and neurodevelopment: Translating from biology t
+ o epidemiology to policy" presented by Drs Marc Weisskopf and R. Devon Pay
+ ne-Sturges. - More info: https://epiresearch.org/serlibrary/sertalks/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SER-AHA Collaboration Event
+DTSTART:20191120T100000
+DTEND:20191120T110000
+UID:ccf88540-e9dd-4ff4-a6bc-9b3160903442
+DTSTAMP:20191112T000302
+Description:"Emulating target randomized trials to reduce bias in observati
+ onal studies of comparative effectiveness” with Dr. Goodarz Danaei. Join
+  us from 12-1pm EDT. - More info: https://epiresearch.org/society-collabor
+ ation/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Twitter Takeover!
+DTSTART:20191126
+DTEND:20191126
+UID:73a7bccf-cac1-4962-81a4-a52f146eac92
+DTSTAMP:20191112T000302
+Description:Join Shawnita Sealy Jefferson (@Dr_S_Jefferson) on @societyfore
+ pi - Twitter Takeover! - More info: https://twitter.com/societyforepi
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SPC Journal Club
+DTSTART:20200115T100000
+DTEND:20200115T110000
+UID:a9aa6757-3087-4c15-ba6b-3f380aa7df30
+DTSTAMP:20191112T000302
+Description:More information to come! - More info: https://epiresearch.org/
+ journal-club/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Twitter Takeover!
+DTSTART:20200122
+DTEND:20200122
+UID:c079bb8c-f6d3-4bb1-9c33-787129cd8172
+DTSTAMP:20191112T000302
+Description:@societyforepi - More info: 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SER-ISPE Society Collaboration
+DTSTART:20200129T100000
+DTEND:20200129T110000
+UID:bcb52992-7da7-4d02-8be0-93f49d85dac7
+DTSTAMP:20191112T000302
+Description:Stay tuned from more details! - More info: https://epiresearch.
+ org/society-collaboration/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Membership Committee Webinar
+DTSTART:20200205T100000
+DTEND:20200205T110000
+UID:a7b51d7f-c163-43d2-afb5-8bc9b40aece2
+DTSTAMP:20191112T000302
+Description:More information to come! - More info: 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SERtalks - Texas
+DTSTART:20200207
+DTEND:20200207
+UID:2e22a342-c6e4-46a7-a4a8-53aed042fa61
+DTSTAMP:20191112T000302
+Description:Join Dr. Jennifer Ahern at the University of Texas at Austin! -
+  More info: https://epiresearch.org/serlibrary/sertalks/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SPC Career Development Webinar
+DTSTART:20200219T100000
+DTEND:20200219T110000
+UID:f3c17abe-3c8d-4321-bf60-5d940988079d
+DTSTAMP:20191112T000302
+Description:Stay tuned for more details! Check out the past events! - More 
+ info: https://epiresearch.org/serlibrary/serexperts/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Twitter Takeover!
+DTSTART:20200226
+DTEND:20200226
+UID:e6a3e27c-3eb6-4b7d-861c-705aac30984a
+DTSTAMP:20191112T000302
+Description:@societyforepi - More info: 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2020 Mid-Year Meeting
+DTSTART:20200306T090000
+DTEND:20200306T133000
+UID:10df5700-5b4d-4aa1-a708-3b8c48d73368
+DTSTAMP:20191112T000302
+Description:Live web-conference from Salt Lake City! - More info: https://e
+ piresearch.org/mid-year-meeting/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SERdigital - Web Conference
+DTSTART:20200318T100000
+DTEND:20200318T110000
+UID:f4bc05e6-8dd6-4247-8786-ad1b1d2165df
+DTSTAMP:20191112T000302
+Description:More information to come! - More info: https://epiresearch.org/
+ serlibrary/serdigital/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Twitter Takeover!
+DTSTART:20200325
+DTEND:20200325
+UID:f26a004e-4ee7-4111-8668-986c44d7f288
+DTSTAMP:20191112T000302
+Description:@societyforepi - More info: 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Membership Committee Webinar
+DTSTART:20200401T100000
+DTEND:20200401T110000
+UID:28adb384-a86e-420e-b5c6-f79a3fa6305f
+DTSTAMP:20191112T000302
+Description:More information to come! - More info: 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SPC Journal Club
+DTSTART:20200415T100000
+DTEND:20200415T110000
+UID:0f3d2a86-6643-4ecc-a408-0b55a4be6304
+DTSTAMP:20191112T000302
+Description:More information to come! - More info: https://epiresearch.org/
+ journal-club/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SPC Career Development Webinar
+DTSTART:20200520T100000
+DTEND:20200520T110000
+UID:388af0dc-290f-40a0-8c51-a883eef0173b
+DTSTAMP:20191112T000302
+Description:Stay tuned for more information! - More info: https://epiresear
+ ch.org/serlibrary/serexperts/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Twitter Takeover!
+DTSTART:20200527
+DTEND:20200527
+UID:675ce264-c9f2-4898-9146-209ae860ce21
+DTSTAMP:20191112T000302
+Description:@societyforepi - More info: 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:#SER2020 Annual Meeting
+DTSTART:20200616
+DTEND:20200616
+UID:11e7206d-3053-47e8-91d3-5fe5f043695d
+DTSTAMP:20191112T000302
+Description:Join SER in Boston! Register for pre-conference workshops held 
+ today! - More info: https://epiresearch.org/annual-meeting/2020-meeting/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:#SER2020 Annual Meeting
+DTSTART:20200617
+DTEND:20200617
+UID:6d8b436a-ce18-45cc-8586-250a3e61ab01
+DTSTAMP:20191112T000302
+Description:Join us for the opening plenary session\, symposium\, OAS\, pos
+ ter reception\, and more! - More info: https://epiresearch.org/annual-meet
+ ing/2020-meeting/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:#SER2020 Annual Meeting
+DTSTART:20200618
+DTEND:20200618
+UID:83d00667-2964-4126-965e-17e4ea9f6e60
+DTSTAMP:20191112T000302
+Description:Conference Day 2! Don't miss the lunchtime sessions\, plenary s
+ essions\, and lots of concurrent session options! Join us for the poster s
+ ession and reception as well. - More info: https://epiresearch.org/annual-
+ meeting/2020-meeting/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:#SER2020 Annual Meeting
+DTSTART:20200619
+DTEND:20200619
+UID:72c46b06-d409-4619-aef5-45a53c287194
+DTSTAMP:20191112T000302
+Description:Final day of the conference. Hear from Award Winners\, Concurre
+ nt sessions\, and Professional Development Sessions from 12-1pm. - More in
+ fo: https://epiresearch.org/annual-meeting/2020-meeting/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Twitter Takeover!
+DTSTART:20200624
+DTEND:20200624
+UID:513b2c5b-c485-44ed-b6c6-3d8836d5115b
+DTSTAMP:20191112T000302
+Description:@societyforepi - More info: 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SPC Journal Club
+DTSTART:20200715T100000
+DTEND:20200715T110000
+UID:5bdd8bce-3d10-4078-81b6-f744d63db68a
+DTSTAMP:20191112T000302
+Description:More information to come! - More info: https://epiresearch.org/
+ journal-club/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Twitter Takeover!
+DTSTART:20200722
+DTEND:20200722
+UID:2211c5f8-7950-435f-a4df-3d2b4f2b36f0
+DTSTAMP:20191112T000302
+Description:@societyforepi - More info: 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Twitter Takeover!
+DTSTART:20200826
+DTEND:20200826
+UID:64f8f1a2-cf4c-4e96-986c-6c78de81f519
+DTSTAMP:20191112T000302
+Description:@societyforepi - More info: 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SPC Career Development Webinar
+DTSTART:20200916
+DTEND:20200916
+UID:de60b815-65ad-4847-aa19-58b7dd377b64
+DTSTAMP:20191112T000302
+Description: - More info: https://epiresearch.org/serlibrary/serexperts/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Twitter Takeover!
+DTSTART:20200923
+DTEND:20200923
+UID:eb666c08-777a-42ba-92f7-8fb8b1f83103
+DTSTAMP:20191112T000302
+Description:@societyforepi - More info: 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SPC Journal Club
+DTSTART:20201021T100000
+DTEND:20201021T110000
+UID:0f1bd156-f9d2-495c-ab2c-7353e874142b
+DTSTAMP:20191112T000302
+Description:More information to come! - More info: https://epiresearch.org/
+ journal-club/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Twitter Takeover!
+DTSTART:20201028
+DTEND:20201028
+UID:a5a13b3e-7b0c-4279-a602-b8d1c1469eb5
+DTSTAMP:20191112T000302
+Description:@societyforepi - More info: 
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:SERvisits - Merced
+DTSTART:20201117
+DTEND:20201117
+UID:cdc09442-4606-4d5c-9bdc-74393ddf5775
+DTSTAMP:20191112T000302
+Description:Dr. Magdalena Cerda will visit the University of California\, M
+ erced for a SERvisits event. - More info: https://epiresearch.org/ser-visi
+ ts/
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Twitter Takeover!
+DTSTART:20201125
+DTEND:20201125
+UID:51da19b0-146d-4690-abf0-4d8f9e26d5b6
+DTSTAMP:20191112T000302
+Description:@societyforepi - More info: 
+END:VEVENT
+END:VCALENDAR
